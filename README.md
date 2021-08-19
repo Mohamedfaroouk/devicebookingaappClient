@@ -1,6 +1,7 @@
 ## DeviceBookingApp
 application that used to book electronic devices in a company
 the client can book a device , mange his booked deviced and search for an available devices 
+Using the firebase for the backend of the app and provider for state management
 
 ![received_504165620881796](https://user-images.githubusercontent.com/88829064/130092454-8d5277c0-20e0-4a4c-b4ad-925d09c060e9.jpeg)
 ![received_1544338949252496](https://user-images.githubusercontent.com/88829064/130092430-27ecbbad-1a08-464b-b65f-ee6a0c8ea6bb.jpeg)
