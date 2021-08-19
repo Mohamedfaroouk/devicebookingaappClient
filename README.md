@@ -1,4 +1,4 @@
-## DeviceBookingaApp
+## DeviceBookingApp
 application that used to book electronic devices in a company
 the client can book a device , mange his booked deviced and search for an available devices 
 
